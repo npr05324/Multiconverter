@@ -1,0 +1,9 @@
+c:\users\lemmondev\documents\visual studio 2013\Projects\multicoder\multicoder\bin\Debug\multicoder.exe.config
+c:\users\lemmondev\documents\visual studio 2013\Projects\multicoder\multicoder\obj\Debug\multicoder.csprojResolveAssemblyReference.cache
+c:\users\lemmondev\documents\visual studio 2013\Projects\multicoder\multicoder\obj\Debug\multicoder.Form1.resources
+c:\users\lemmondev\documents\visual studio 2013\Projects\multicoder\multicoder\obj\Debug\multicoder.Properties.Resources.resources
+c:\users\lemmondev\documents\visual studio 2013\Projects\multicoder\multicoder\obj\Debug\multicoder.csproj.GenerateResource.Cache
+c:\users\lemmondev\documents\visual studio 2013\Projects\multicoder\multicoder\bin\Debug\multicoder.exe
+c:\users\lemmondev\documents\visual studio 2013\Projects\multicoder\multicoder\bin\Debug\multicoder.pdb
+c:\users\lemmondev\documents\visual studio 2013\Projects\multicoder\multicoder\obj\Debug\multicoder.exe
+c:\users\lemmondev\documents\visual studio 2013\Projects\multicoder\multicoder\obj\Debug\multicoder.pdb
